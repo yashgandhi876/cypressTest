@@ -9,9 +9,9 @@ $ npm i
 ```
 $ npm start
 ```
-# you can start the test now -
+# you can start the test now (in another terminal) -
 ```
-$ npm test (in another terminal)
+$ npm test
 ```
 # it will open new window for cypress choose E2E testing and in integration folder you can see test file.
 # Open it up and hover on each step you can see the actual happening in browser.
